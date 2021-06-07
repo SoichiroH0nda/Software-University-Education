@@ -1,3 +1,5 @@
 test 1
 test 2 adding from GitHub
 Unknown test number made locally
+test 3 making conflict / Edit from GitHub
+
